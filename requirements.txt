@@ -1,1 +1,8 @@
+streamlit
+google-generativeai
+speechrecognition
+gtts
+pydub
+numpy
+configparser
 
